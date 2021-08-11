@@ -1,0 +1,15 @@
+news "sample news 1"
+    location
+        planet "New Boston"
+    name
+        word
+            "Sample News Castor"
+            "Second Sample News Castor"
+    portrait "portrait/human04"
+    message
+        word
+            "This is a sample"
+        word
+            "News Story."
+        word
+            "End transmission"
